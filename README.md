@@ -3,7 +3,7 @@
 🧠 Computer Science student at FEU Tech<br/>
 🖌️ Designing modern, eye-catching graphics for brands and personal projects.<br/>
 🌱 I’m currently diving into different programming languages and creating web design and UI projects.<br/>
-💻 Check out my portfolio website [here](whatyoudoingkeyan.framer.website)<br/>
+💻 Check out my portfolio website [here](https://whatyoudoingkeyan.framer.website)<br/>
 
 #
 # 💻 Tech Stack:
